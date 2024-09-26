@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0015-3sum) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0729-my-calendar-i](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0729-my-calendar-i) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0011-container-with-most-water) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## String
 |  |
 | ------- |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0729-my-calendar-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
