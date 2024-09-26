@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0015-3sum) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
