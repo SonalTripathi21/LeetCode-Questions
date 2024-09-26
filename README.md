@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0015-3sum) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -21,4 +22,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/2494-sum-of-prefix-scores-of-strings) |
+## Trie
+|  |
+| ------- |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/2494-sum-of-prefix-scores-of-strings) |
+## Counting
+|  |
+| ------- |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 <!---LeetCode Topics End-->
