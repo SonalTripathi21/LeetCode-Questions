@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0015-3sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Two Pointers
@@ -42,5 +43,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Prefix Sum
+|  |
+| ------- |
+| [1016-subarray-sums-divisible-by-k](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/1016-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
