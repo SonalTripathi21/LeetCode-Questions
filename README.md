@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0001-two-sum) |
+| [0432-all-oone-data-structure](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0432-all-oone-data-structure) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0859-design-circular-deque) |
@@ -112,9 +114,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0859-design-circular-deque) |
 ## Queue
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0859-design-circular-deque) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
