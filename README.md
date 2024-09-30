@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0859-design-circular-deque) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0859-design-circular-deque) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Segment Tree
 |  |
 | ------- |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0432-all-oone-data-structure) |
+## Stack
+|  |
+| ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/1497-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
