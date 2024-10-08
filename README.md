@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sorting
 |  |
@@ -52,11 +53,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## String
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Bit Manipulation
 |  |
