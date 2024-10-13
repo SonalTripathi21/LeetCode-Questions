@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0859-design-circular-deque) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0075-sort-colors) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Greedy
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Matrix
 |  |
@@ -177,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SonalTripathi21/LeetCode-Questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 <!---LeetCode Topics End-->
